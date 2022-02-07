@@ -1,1 +1,1 @@
-# NEWZY
+# Chat Application
